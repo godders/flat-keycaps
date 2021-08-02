@@ -16,3 +16,12 @@ the nice texture from the bed ends up on top. The STLs are arranged that way
 already.
 
 ![slicer](pics/slicer_bed.png)
+
+## License
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Although please contact me if there's something you want to do that this
+license doesn't allow.
+
+(For clarity, I do not consider charging materials and postage to print this for
+someone within the community to be "commercial use" and thus perfectly acceptable!)
