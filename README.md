@@ -6,8 +6,6 @@ Flat keycaps that come out sort-of nicely on a 3D printer.
 
 ![cap cutaway](pics/cutaway.png)
 
-Currently only 1u and 10u sizes are provided. The 10u has a 7u stab spacing.
-
 ## Printing
 
 I print these in PETG on a textured sheet at 0.1mm layer height. Bigger than that
